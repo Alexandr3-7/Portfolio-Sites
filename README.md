@@ -21,7 +21,7 @@ I am interested in creating user-friendly user interfaces, web design and fronte
 | **🎵 Music Player** | Music service landing page with player, About and Store sections. HTML + CSS | [Watch](https://github.com/Alexandr3-7/Portfolio-Sites/tree/main/Music) |
 | **🌿 Nature**           | The landing page of the website for the protection of ecology and animals. HTML + CSS, responsive design, animations | [Watch](https://github.com/Alexandr3-7/Portfolio-Sites/tree/main/Nature) |
 | **💅 Manicure and decor** | Educational project with an instructional and technological map * (in the process of creation)*        | [Watch](#) | 
-| **📊 Price monitoring**    | A Python program for tracking prices * (in the process of creation)*                     | [Watch](#) | 
+| **📊 Price monitoring**    | A Python program for tracking prices * (in the process of creation)*                     | [Watch](https://github.com/Alexandr3-7/dns_price_monitor/tree/main) | 
 
 ## 📫 Contacts
 
@@ -56,7 +56,7 @@ I am interested in creating user-friendly user interfaces, web design and fronte
 | **🎵 Музыкальный плеер** | Лэндинг музыкального сервиса с плеером, разделами About и Store. HTML + CSS          | [Смотреть](https://github.com/Alexandr3-7/Portfolio-Sites/tree/main/Music) |
 | **🌿 Природа**           | Лэндинг сайта по защите экологии и животных. HTML + CSS, адаптивный дизайн, анимации | [Смотреть](https://github.com/Alexandr3-7/Portfolio-Sites/tree/main/Nature) |
 | **💅 Маникюр и декор**   | Учебный проект с инструкционно-технологической картой *(в процессе создания)*        | [Смотреть](#) | 
-| **📊 Мониторинг цен**    | Программа на Python для отслеживания цен *(в процессе создания)*                     | [Смотреть](#) | 
+| **📊 Мониторинг цен**    | Программа на Python для отслеживания цен *(в процессе создания)*                     | [Смотреть](https://github.com/Alexandr3-7/dns_price_monitor/tree/main) | 
 
 ## 📫 Контакты
 
